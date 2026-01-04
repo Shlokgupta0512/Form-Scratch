@@ -26,7 +26,7 @@ function Description() {
                                     <span className="text-purple-400">const</span>
                                     <span className="text-blue-400">userPrompt</span>
                                     <span className="text-gray-400">=</span>
-                                    <span className="text-green-400">"Create a feedback form for my coffee shop with rating and comments"</span>
+                                    <span className="text-green-400">&quot;Create a feedback form for my coffee shop with rating and comments&quot;</span>
                                 </div>
 
                                 <div className="flex gap-2">
