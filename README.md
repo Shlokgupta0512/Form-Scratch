@@ -62,7 +62,6 @@ This project focuses on **clean UI, reusable components, and scalability**, maki
 ## 🚀 Getting Started
 
 ### 📌 Clone the Repository
-```bash
 git clone https://github.com/Shlokgupta0512/Form-Scratch.git
 cd Form-Scratch
 📦 Install Dependencies
@@ -144,3 +143,5 @@ Aspiring Software Engineer | Frontend Developer
 
 
 Let’s build something awesome 🚀
+```bash
+
